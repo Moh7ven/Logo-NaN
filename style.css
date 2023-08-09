@@ -1,0 +1,66 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.backviolet {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60rem;
+  height: 37rem;
+  background-color: #6e75da;
+  margin-top: 12rem;
+  overflow: hidden;
+}
+
+div.logo {
+  position: relative;
+  width: 26rem;
+  height: 26rem;
+  background-color: white;
+  rotate: 45deg;
+  overflow: hidden;
+}
+
+div.logo .carre1 {
+  position: absolute;
+  width: 26rem;
+  height: 26rem;
+  background-color: #6e75da;
+  margin-left: 5rem;
+  margin-top: 5rem;
+}
+
+div.logo .carre2 {
+  position: absolute;
+  width: 26rem;
+  height: 26rem;
+  background-color: white;
+  margin-left: 5rem;
+  margin-top: 5rem;
+}
+
+div.logo .carre3 {
+  position: absolute;
+  width: 26rem;
+  height: 26rem;
+  background-color: #6e75da;
+  margin-left: 5rem;
+  margin-top: 5rem;
+}
+
+div.logo .carre4 {
+  position: absolute;
+  width: 26rem;
+  height: 26rem;
+  background-color: white;
+  margin-left: 5rem;
+  margin-top: 5rem;
+}
